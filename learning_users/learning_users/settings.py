@@ -28,7 +28,7 @@ SECRET_KEY = 'b9-@woyls%=dh169j+qx0wnpj*p!jwa!)(b#w96-zqe6sg*-c$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['Henzas864.pythonanywhere.com']
+ALLOWED_HOSTS = ['henzas864.pythonanywhere.com']
 
 
 # Application definition
